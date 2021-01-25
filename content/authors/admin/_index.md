@@ -62,12 +62,12 @@ social:
 - icon: YWH
   link: https://yeswehack.com/hunters/ghost27
   icon_pack: fab
- Link to a PDF of your resume/CV.
- To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
- and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+#- icon: cv
+#   icon_pack: ai
+#  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
