@@ -38,12 +38,12 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- icon: "HTB"
-  icon_pack: "custom"
-  name: "Hack the Box"
-  description: "90%"
-- icon: "Burp"
-  icon_pack: "custom"
-  name: "Burp Suite"
-  description: "100"
+#- icon: "HTB"
+#  icon_pack: "custom"
+#  name: "Hack the Box"
+#  description: "90%"
+#- icon: "Burp"
+#  icon_pack: "custom"
+#  name: "Burp Suite"
+#  description: "100"
 ---
