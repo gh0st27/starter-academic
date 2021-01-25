@@ -8,12 +8,22 @@ tags:
   - Python
   - Django
   - SQLite
-external_link: /Lan_Crawler
+external_link: ""
 links:
-  - url: https://github.com/gh0st27/Lan_Crawler
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
+- icon: github
+  icon_pack: fab
+  name: Follow
+  url: https://github.com/gh0st27/Lan_Crawler
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
 ---
 Lan Crawler is a crawler and indexer to access shared files by SMB shares (Windows only)
