@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.youracclaim.com/badges/d5c252e9-b8ea-4491-b6be-beda9e6331d2?source=linked_in_profile
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021-01-15"
+  description: "The Offensive Security Certified Professional is an ethical hacking certification offered by Offensive Security that teaches penetration testing methodologies     and the use of the tools included with the Kali Linux."
+  organization: Offensive Security
+  organization_url: https://www.offensive-security.com/
+  title: Offensive Security Certified Professional (OSCP)
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
