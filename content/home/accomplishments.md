@@ -31,20 +31,28 @@ item:
   organization_url: https://www.offensive-security.com/
   title: Offensive Security Certified Professional (OSCP)
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  date_start: "2018-04-01"
+  description: The EC Council’s Certified Security Analystis a professional certification provided by the International Council of E-Commerce Consultants (EC-Council).
+  organization: EC-Council
+  organization_url: https://www.eccouncil.org/
+  title: EC-Council Certified Security Analyst (ECSA)
+  url: ""
+- certificate_url: https://yeswehack.com/hunters/ghost27 
+  date_end: ""
+  date_start: ""
+  description: "Nominated as Top 25 hackers of all time in YesWeHack Global Bug Bounty platform & VDP platform"
+  organization: YesWeHack
+  organization_url: https://yeswehack.com/ranking?period=All
+  title: Reached Top 25 hackers in Yeswehack bug bounty platform
+  url: ""
+- certificate_url: https://www.hackthebox.eu/profile/42684
+  date_end: ""
+  date_start: ""
+  description: "Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the       security field"
+  organization: Hack the Box
+  organization_url: https://www.hackthebox.eu/profile/42684
+  title: 'Reached ProHacker Rank on Hackthebox '
   url: ""
 ---
