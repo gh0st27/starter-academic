@@ -41,7 +41,7 @@ item:
   url: ""
 - certificate_url: https://yeswehack.com/hunters/ghost27 
   date_end: ""
-  date_start: ""
+  date_start: "2020-08-08"
   description: "Nominated as Top 25 hackers of all time in YesWeHack Global Bug Bounty platform & VDP platform"
   organization: YesWeHack
   organization_url: https://yeswehack.com/ranking?period=All
@@ -49,7 +49,7 @@ item:
   url: ""
 - certificate_url: https://www.hackthebox.eu/profile/42684
   date_end: ""
-  date_start: ""
+  date_start: "2020-10-10"
   description: "Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the       security field"
   organization: Hack the Box
   organization_url: https://www.hackthebox.eu/profile/42684
