@@ -56,9 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/infosec-sunil-katakdhond
-- icon: "HTB"
+- icon: HTB
   link: https://www.hackthebox.eu/profile/42684
-  icon_pack: "icon"
+  icon_pack: icon
 #- icon: ywh
 #  link: https://yeswehack.com/hunters/ghost27
 #  icon_pack: custom
