@@ -45,7 +45,7 @@ item:
   description: "Nominated as Top 25 hackers of all time in YesWeHack Global Bug Bounty platform & VDP platform"
   organization: YesWeHack
   organization_url: https://yeswehack.com/ranking?period=All
-  title: Reached Top 25 hackers in Yeswehack bug bounty platform
+  title: Listed in Top 25 hackers in Yeswehack bug bounty platform
   url: ""
 - certificate_url: https://www.hackthebox.eu/profile/42684
   date_end: ""
@@ -53,6 +53,6 @@ item:
   description: "Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the       security field"
   organization: Hack the Box
   organization_url: https://www.hackthebox.eu/profile/42684
-  title: 'Reached ProHacker Rank on Hackthebox '
+  title: 'Achieved ProHacker Rank on Hackthebox '
   url: ""
 ---
