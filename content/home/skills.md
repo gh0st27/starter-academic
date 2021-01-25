@@ -42,4 +42,8 @@ feature:
   icon_pack: "custom"
   name: "Hack the Box"
   description: "90%"
+- icon: "Burp"
+  icon_pack: "custom"
+  name: "Burp Suite"
+  description: "100"
 ---
