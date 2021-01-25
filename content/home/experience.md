@@ -43,6 +43,6 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Network & WEB VAPT
-        * Devsecops
+        * Network & WEB Vulnerability Assessment & Penetration Testing
+        * Devsecops 
 ---
