@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
+  name: Python
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: linux
+  icon_pack: fab
+  name: Linux
+#- description: 10%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -38,8 +38,8 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: "HTB"
+  icon_pack: "custom"
+  name: "Hack the Box"
+  description: "90%"
 ---
