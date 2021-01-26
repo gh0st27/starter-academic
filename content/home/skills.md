@@ -52,8 +52,8 @@ feature:
 - icon: "metasploit"
   icon_pack: "custom"
   name: "Metasploit"
-- icon: "debugger"
-  icon_pack: "custom"
-  name: "Immunity Debugger"
+#- icon: "debugger"
+#  icon_pack: "custom"
+#  name: "Immunity Debugger"
  
 ---
