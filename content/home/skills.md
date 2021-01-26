@@ -24,10 +24,10 @@ feature:
   icon: linux
   icon_pack: fab
   name: Linux
-#- description: 10%
-#  icon: camera-retro
-#  icon_pack: fas
-#  name: Photography
+- description: 10%
+  icon: database
+  icon_pack: fab
+  name: Database
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
