@@ -1,7 +1,7 @@
 ---
 title: Python Lan Crawler
 date: 2021-01-25T16:52:19.819Z
-summary: Lan Crawler is a crawler and indexer to access and download shared files from single dashboard.
+summary: Lan Crawler is a crawler and indexer to access shared files by SMB shares. It provides dynamic Web UI for searching files, media etc. and allow user to download them from single dashboard.
 draft: false
 featured: false
 tags:
