@@ -24,6 +24,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 Lan Crawler is a crawler and indexer to access shared files by SMB shares (Windows only)
