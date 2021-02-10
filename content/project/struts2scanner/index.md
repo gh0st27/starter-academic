@@ -23,6 +23,7 @@ url_slides: ""
 url_video: ""
 ---
 ---
+Apache Struts is a free, open-source framework for creating elegant, modern Java web applications. It has its share of critical vulnerabilities, with one of its features, OGNL – Object-Graph Navigation Language, being at the core of many of them.
 Struts2Scanner is a vulnerability scanner to find out if a target endpoint is vulnerable to Remote Code Execution. Currently it checks against following vulnerabilities.
 
 * cve-2020-17530
@@ -30,3 +31,4 @@ Struts2Scanner is a vulnerability scanner to find out if a target endpoint is vu
 * cve-2018-11776
 * cve-2017-5638
 * cve-2017-9791
+
