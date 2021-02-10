@@ -25,5 +25,3 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
----
-Lan Crawler is a crawler and indexer to access shared files by SMB shares (Windows only)
